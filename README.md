@@ -1,4 +1,4 @@
-# My Crypto List
+# CryptoHustle
 
 This project is a React web application that fetches and displays a list of cryptocurrencies, allowing users to search through them. The application uses the CryptoCompare API to retrieve data and is built with Vite.
 
